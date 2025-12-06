@@ -1,4 +1,4 @@
-# Hi, I'm Hung-Chun Hsu (Lucas) 👋
+# Hi, I'm Lucas👋
 
 I'm a Senior Research Assistant at [CFDA Lab, Academia Sinica](https://cfda.csie.org/), Taiwan, working with Prof. Chuan-Ju Wang and Prof. Ming-Feng Tsai.
 
